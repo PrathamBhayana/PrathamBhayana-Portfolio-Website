@@ -1512,10 +1512,10 @@ End Skills Section
     justify-content: center;
     align-items: center;
     width: 100%;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     text-align: center;
     word-break: break-all;
-    font-size: 0.9rem;
+    font-size: 0.78rem;
     gap: 12px;
   }
   .contact-link i {
