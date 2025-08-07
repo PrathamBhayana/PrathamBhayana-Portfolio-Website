@@ -625,6 +625,17 @@ a.back-to-top:focus {
       margin-bottom: 0.5rem;
     }
   }
+@media (min-width: 1024px) and (max-width: 1440px) {
+  .banner_content {
+    margin-top: 90px !important;
+  }
+  .banner_content h1 {
+  font-size: 27px;   
+}
+.banner-images img {
+    margin-top: 30%;
+}
+}
 /* ==========================================================================
 03. End Banner Area
 ========================================================================== */
@@ -1515,7 +1526,7 @@ End Skills Section
     margin-bottom: 0.5rem;
     text-align: center;
     word-break: break-all;
-    font-size: 0.78rem;
+    font-size: 0.745rem;
     gap: 12px;
   }
   .contact-link i {
